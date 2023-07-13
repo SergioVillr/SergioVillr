@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sergio Villanueva</h1>
-<h3 align="center">A passionate student of information System Engineering at </h3>
-<a href="https://www.una.ac.cr/" rel="nofollow">UNA</a>
+<h3 align="center">A passionate student of information System Engineering at </h3><a href="https://www.una.ac.cr/" rel="nofollow">UNA</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
