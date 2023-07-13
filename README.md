@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">About me:</h3>
-- Highly motivated Systems Engineering student passionate about designing and implementing innovative solutions. I am looking for an opportunity that allows me to take advantage of my technical experience and problem solving skills to improve both personally and professionally.
+Systems Engineering student with a passion for software development and creating web solutions. Enthusiastic about taking on projects from start to finish, not only by writing code but also by providing a critical vision to improve the product, its functionalities, and its impact on the business.
 <p align="left">
 </p>
 
