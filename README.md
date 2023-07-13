@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sergio Villanueva</h1>
 <h3 align="center">A passionate student of information System Engineering at <a href="https://www.una.ac.cr/" rel="nofollow">UNA</a></h3>
 
-<h3 align="left">Connect with me:</h3>
+#- 🔭 I’m currently working on [MINSA](https://www.ministeriodesalud.go.cr/)
+
+<h3 align="left">About me:</h3>
+- Highly motivated Systems Engineering student passionate about designing and implementing innovative solutions. I am looking for an opportunity that allows me to take advantage of my technical experience and problem solving skills to improve both personally and professionally.
 <p align="left">
 </p>
 
